@@ -32,5 +32,24 @@ A beautiful minimal Android app built with **Jetpack Compose** that fetches insp
 Download from the github releases or
 Clone the repo and run it in Android Studio:
 
-```bash
-git clone https://github.com/Dev-Aditya-More/simple-quotes-app.git
+---
+
+## 🔮 Coming Soon
+
+  * View all favorite quotes
+
+  * Share quotes with friends
+
+  * Dark theme support
+
+  * Offline caching
+
+---
+
+🧠 Credits
+
+  Quotes powered by ZenQuotes API
+
+  Made with ❤️ by Your Name
+
+
